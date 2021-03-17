@@ -14,4 +14,5 @@ Marissa Chiaradio (Biologist)
 
 # Repository Contents
 
+analyst_project2.R - R code used to filter & process tophat and cufflinks output data for DAVID 
 biologist_project2.R - R code used to load in data and create several output files including FPKM plots, DAVID tables, and clustered heatmap. 
